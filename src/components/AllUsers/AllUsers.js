@@ -42,7 +42,7 @@ hendelDelete=(id)=>{
     })
 }
 
-//  Get All Users
+//  Get All Users data
 fetchData=()=>{
   axios({
     url: `http://localhost:3003/users`,
