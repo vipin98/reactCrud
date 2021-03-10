@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "vipin",
+      "Birth": "Sincere@april.biz",
+      "address": "xyk",
+      "Gender": "male",
+      "hobbies": [
+        "cricket"
+      ],
+      "colleges": "xyz"
+    },
+    {
+      "id": 3,
+      "name": "vipin",
+      "Birth": "Sincere@april.biz",
+      "address": "xyk",
+      "Gender": "male",
+      "hobbies": [
+        "cricket"
+      ],
+      "colleges": "xyz"
+    },
+    {
+      "id": 4,
+      "name": "vipin",
+      "Birth": "Sincere@april.biz",
+      "address": "xyk",
+      "Gender": "male",
+      "hobbies": [
+        "cricket"
+      ],
+      "colleges": "xyz"
+    },
+    {
+      "id": 6,
+      "name": "vipin",
+      "Birth": "Sincere@april.biz",
+      "address": "xyk",
+      "Gender": "male",
+      "hobbies": [
+        "cricket"
+      ],
+      "colleges": "xyz"
+    },
+    {
+      "id": 8,
+      "name": "vipin",
+      "Birth": "Sincere@april.biz",
+      "address": "xyk",
+      "Gender": "male",
+      "hobbies": [
+        "cricket"
+      ],
+      "colleges": "xyz"
+    }
+  ]
+}
