@@ -107,7 +107,7 @@ componentDidMount=()=>{
                   <td>{item.address}</td>
                   <td>{item.Gender}</td>
                   <td>{item.colleges}</td>
-                  <td>{item.hobbies}</td>
+                  <td >{item.hobbies+"  "}</td>
                   <td><Button type="submit" variant="info"onClick={() => this.EditUser(item.id)}>Edit</Button>  &nbsp;
                 <Button type="submit" variant="info" onClick={() => this.hendelDelete(item.id)}>Delete</Button></td>
               </tr>

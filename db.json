@@ -1,59 +1,28 @@
 {
   "users": [
     {
+      "name": "Vipin Pandey",
+      "Birth": "2021-03-12",
+      "address": "xyz",
+      "Gender": "male",
+      "hobbies": [
+        "Reading",
+        "traveling",
+        "cricket"
+      ],
+      "colleges": "Middlebury College",
+      "id": 1
+    },
+    {
       "id": 2,
-      "name": "vipin",
-      "Birth": "Sincere@april.biz",
-      "address": "xyk",
-      "Gender": "male",
+      "name": "rohan ",
+      "Birth": "2021-03-02",
+      "address": "xyz",
+      "Gender": "female",
       "hobbies": [
-        "cricket"
+        "Reading"
       ],
-      "colleges": "xyz"
-    },
-    {
-      "id": 3,
-      "name": "vipin",
-      "Birth": "Sincere@april.biz",
-      "address": "xyk",
-      "Gender": "male",
-      "hobbies": [
-        "football"
-      ],
-      "colleges": "xyz"
-    },
-    {
-      "id": 4,
-      "name": "vipin",
-      "Birth": "2021-03-14",
-      "address": "xyk",
-      "Gender": "male",
-      "hobbies": [
-        "football"
-      ],
-      "colleges": "xyz"
-    },
-    {
-      "id": 6,
-      "name": "vipin",
-      "Birth": "2021-04-01",
-      "address": "xyk",
-      "Gender": "male",
-      "hobbies": [
-        "coding"
-      ],
-      "colleges": "xyz"
-    },
-    {
-      "id": 8,
-      "name": "vipin",
-      "Birth": "2021-03-01",
-      "address": "xyk",
-      "Gender": "male",
-      "hobbies": [
-        "cricket"
-      ],
-      "colleges": "xyz"
+      "colleges": "Middlesex County College"
     }
   ]
 }

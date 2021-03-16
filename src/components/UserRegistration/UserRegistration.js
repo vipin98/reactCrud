@@ -13,10 +13,11 @@ class UserRegistraion extends Component {
     address: "",
     Gender: "",
     hobbiesList: [
-      { id: 1, value: "cricket", isChecked: false },
-      { id: 2, value: "coding", isChecked: false },
-      { id: 3, value: "football", isChecked: false },
-      { id: 4, value: "other", isChecked: false }
+      { id: 1, value: "Reading", isChecked: false },
+      { id: 2, value: "Gaming", isChecked: false },
+      { id: 3, value: "traveling", isChecked: false },
+      { id: 4, value: "Drawing", isChecked: false },
+      { id: 5, value: "other", isChecked: false }
     ],
     hobbies: [],
     OtherHobbies: "",
