@@ -18,36 +18,36 @@
       "address": "xyk",
       "Gender": "male",
       "hobbies": [
-        "cricket"
+        "football"
       ],
       "colleges": "xyz"
     },
     {
       "id": 4,
       "name": "vipin",
-      "Birth": "Sincere@april.biz",
+      "Birth": "2021-03-14",
       "address": "xyk",
       "Gender": "male",
       "hobbies": [
-        "cricket"
+        "football"
       ],
       "colleges": "xyz"
     },
     {
       "id": 6,
       "name": "vipin",
-      "Birth": "Sincere@april.biz",
+      "Birth": "2021-04-01",
       "address": "xyk",
       "Gender": "male",
       "hobbies": [
-        "cricket"
+        "coding"
       ],
       "colleges": "xyz"
     },
     {
       "id": 8,
       "name": "vipin",
-      "Birth": "Sincere@april.biz",
+      "Birth": "2021-03-01",
       "address": "xyk",
       "Gender": "male",
       "hobbies": [
